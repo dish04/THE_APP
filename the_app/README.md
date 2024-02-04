@@ -1,3 +1,4 @@
 # the_app
 
-A new app. 'Cause y not?
+A new app.
+'Cause y not?
